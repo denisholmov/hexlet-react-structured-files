@@ -3,7 +3,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { RouterProvider } from "react-router"
 
-import { ROUTES } from './routes/routes.tsx'
+import { ROUTES } from './routes/routes'
 
 
 

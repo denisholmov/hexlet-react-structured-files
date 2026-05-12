@@ -1,0 +1,19 @@
+.header {
+    padding: 33px 0;
+    background-color: #E1EDE6;
+}
+
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
